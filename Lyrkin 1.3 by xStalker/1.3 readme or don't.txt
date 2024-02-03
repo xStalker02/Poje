@@ -1,0 +1,13 @@
+------ 1.3 release ------
+WARNING: This filter is designed with personal preferences in mind. Use with caution, as it may introduce subjective alterations to the content. 
+Be aware that its application could result in a personalized perspective and may not reflect an objective view. Exercise discretion when implementing this filter.
+
+If you wonder where is 1.2 release, stop wondering ;)
+
+Changes:
+- Rogue's marker stack now shows at 150 instead of 500 (Since 150 is like a chaos rn so why not)
+- Maps of all tiers are shown (previous version had 10+ or something)
+- Atoll and Strand are highlighted differently, as those are good for low tier essence/bestiary spam
+- Added some weeb sounds on High tier 2 and God tier 2 currency
+- Changed color of high tier 2 currency
+- Added t6 (weeping) essence cuz idk
